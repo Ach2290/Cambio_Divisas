@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Money _Exchange</string>
+    <string-array name="pais">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>CHF</item>
+        <item>ARS</item>
+        <item>BRA</item>
+        <item>DOP</item>
+        <item>CUP</item>
+        <item>RUB</item>
+        <item>ZAR</item>
+    </string-array>
+    <string-array name="cambio">
+        <item>1.0977</item>
+        <item>0.8601</item>
+        <item>159.60</item>
+        <item>1.6345</item>
+        <item>90.7</item>
+        <item>18.49</item>
+        <item>892.90</item>
+        <item>5.38</item>
+        <item>64.09</item>
+        <item>26.19</item>
+        <item>96.19</item>
+        <item>20.74</item>
+    </string-array>
+
+    <array name="img_pais">
+        <item>@drawable/usa</item>
+        <item>@drawable/inglaterra</item>
+        <item>@drawable/japon</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/india</item>
+        <item>@drawable/suiza</item>
+        <item>@drawable/arentina</item>
+        <item>@drawable/brasil</item>
+        <item>@drawable/dominicana</item>
+        <item>@drawable/cuba</item>
+        <item>@drawable/rusia</item>
+        <item>@drawable/sudafrica</item>
+    </array>
+    <array name="img_subida_bajada">
+        <item>@drawable/subida</item>
+        <item>@drawable/subida</item>
+        <item>@drawable/subida</item>
+        <item>@drawable/bajada</item>
+        <item>@drawable/bajada</item>
+        <item>@drawable/subida</item>
+        <item>@drawable/bajada</item>
+        <item>@drawable/bajada</item>
+        <item>@drawable/subida</item>
+        <item>@drawable/bajada</item>
+        <item>@drawable/subida</item>
+        <item>@drawable/bajada</item>
+    </array>
+</resources>

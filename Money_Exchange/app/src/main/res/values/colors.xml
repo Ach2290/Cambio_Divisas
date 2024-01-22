@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dorado">#efb810</color>
+    <color name="dorado_amarillo">#febe10</color>
+    <color name="azul">#00529f</color>
+    <color name="azul_oscuro">#1a4aac</color>
+    <color name="dorado_crema">#e9c46a</color>
+    <color name="verde">#90a955</color>
+    <color name="violeta">#5c0099</color>
+    <color name="violetamas">#bdb2ff</color>
+
+</resources>
